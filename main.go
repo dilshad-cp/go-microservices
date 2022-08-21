@@ -7,8 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	details "github.com/dilshad-cp/go-microservices/details"
-
+	"github.com/dilshad-cp/go-microservices/details"
 	"github.com/gorilla/mux"
 )
 
